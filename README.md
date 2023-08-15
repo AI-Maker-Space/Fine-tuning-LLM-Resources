@@ -10,8 +10,8 @@ Instruct-tuning OpenLM's OpenLLaMA on the Dolly-15k Dataset Notebooks:
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
 |  **Instruct-tuning Leveraging QLoRA**  | Supervised fine-tuning! | [Here](https://colab.research.google.com/drive/1SRclU2pcgzCkVXpmhKppVbGW4UcCs5xT?usp=sharing) |
-|  **Instruct-tuning Leveraging Lit-LLaMA**  | Using Lightning-AI's Lit-LLaMA frame for Supervised fine-tuning  | [Here](https://colab.research.google.com/drive/1a9OaXVFwrVp-OznIXsbzYuhSHr6TLamy?usp=sharing)   |
-|  **Natural Language to SQL fine-tuning using Lit-LLaMA**  | Using Lightning-AI's Lit-LLaMA frame for Supervised fine-tuning on the Natural Language to SQL task  | [Here](https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing)   |
+|  **Instruct-tuning Leveraging Lit-LLaMA**  | Using Lightning-AI's Lit-LLaMA framework for Supervised fine-tuning  | [Here](https://colab.research.google.com/drive/1a9OaXVFwrVp-OznIXsbzYuhSHr6TLamy?usp=sharing)   |
+|  **Natural Language to SQL fine-tuning using Lit-LLaMA**  | Using Lightning-AI's Lit-LLaMA framework for Supervised fine-tuning on the Natural Language to SQL task  | [Here](https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing)   |
 
 MarketMail Using BLOOMz Resources:
 
