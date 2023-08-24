@@ -5,6 +5,13 @@ Here are a collection of resources you can use to help fine-tune your LLMs, as w
 <img src="https://i.imgur.com/iXwCAad.png" 
      height="auto"/>
 
+### Fine-tuning `gpt-3.5-turbo`
+
+| Notebook | Purpose | Link                                                                                           |
+| :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
+|  **Structured Output Fine-tuning for GPT-3.5-turbo**  | Simple fine-tuning example using the OpenAI fine-tuning endpoint | [Here](https://colab.research.google.com/drive/1Kf4gDOVEh608CQafLjU2oNlY_3g_UCuE?usp=sharing) |
+
+
 Instruct-tuning LLaMA 2:
 
 | Notebook | Purpose | Link                                                                                           |
